@@ -17,6 +17,6 @@ In this project, we'll be analyzing variables of customer behavior (RFM and its 
 
 The project will be divided into four main sections:
 1. `01-EDA-and-data-cleaning`, where we'll be cleaning the data (missing values, duplicates, non-transactions),
-2. `02-data-analysis-and-data-wrangling`, where we'll extract RFM values and visualize it as a whole and also by country,
+2. `02-data-visualization`, where we'll extract RFM values and visualize it by segments and by country,
 3. `03-feature-engineering`, where we're extracting all CLV variables for the purpose of revenue prediction, and
 4. `04-revenue-prediction`, where we're finding the best model of machine learning by 2 methods: Separated and combined.
